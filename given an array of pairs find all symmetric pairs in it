@@ -41,4 +41,3 @@ int main()
 	findSymPairs(arr, 5);
 }
 
-// This is contributed by Arpit Jain
